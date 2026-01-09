@@ -1,0 +1,2 @@
+# Dynamic-and-robust-EEG-functional-connectivity-biomarkers-of-cognitive-load-across-age-groups
+Repository containing supplementary figures and detailed descriptions supporting the study on dynamic EEG functional connectivity biomarkers of cognitive load across age groups. Includes graph-theoretical analyses, frequency-band results, and frontal and parietal network metrics for older and young adults.
